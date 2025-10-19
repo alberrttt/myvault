@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "20816b99e7effaa4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f442728a915bea98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
         "id": "4a68da3007e3540a",
         "type": "tabs",
         "children": [
@@ -31,13 +11,32 @@
             "id": "472e438dde24d30a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "days/2025-09-21.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-21"
+            }
+          },
+          {
+            "id": "3981f064b990e8e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "days/2025-09-21.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-21"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,9 +184,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "f442728a915bea98",
+  "active": "fe278f88acde4537",
   "lastOpenFiles": [
-    "README.md",
-    "Welcome.md"
+    "days/2025-10-19.md",
+    "templates/daily.md",
+    "days/2025-09-21.md",
+    "templates",
+    "days/2025-10-18.md",
+    "days",
+    "days/2025-09-28.md",
+    "days/2025-09-26.md",
+    "days/2025-09-23.md",
+    "Welcome.md",
+    "days/2025-10-17.md",
+    "days/2025-10-16.md",
+    "days/2025-10-15.md",
+    "days/2025-10-14.md",
+    "days/2025-10-12.md",
+    "days/2025-10-10.md",
+    "days/2025-10-09.md",
+    "days/2025-10-07.md",
+    "days/2025-10-06.md",
+    "days/2025-09-30.md",
+    "days/2025-09-29.md",
+    "README.md"
   ]
 }
