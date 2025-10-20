@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "fe751139b8723537",
+    "type": "split",
+    "children": [
+      {
+        "id": "0166c6a44152afd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed828ba62bc08f7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "days/Sunday, October 19th, 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sunday, October 19th, 2025"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3bbfd1afef566a7d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "59add939dcf80242",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "f219549508c6cd04",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "d2275d9cc87e65b4",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "6f6fabdf32662d47",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "cbfa47dae0c26936",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0e838497eaab4164",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "bcfe2eb251014fe7",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "f20942a7b82ac736",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ed828ba62bc08f7a",
+  "lastOpenFiles": [
+    "2025-10-17.md",
+    "2025-10-18.md",
+    "2025-10-16.md",
+    "2025-10-15.md",
+    "2025-10-14.md",
+    "Pasted image 20251014230018.png",
+    "2025-10-12.md",
+    "2025-10-10.md",
+    "2025-10-09.md",
+    "2025-10-07.md",
+    "2025-10-06.md",
+    "2025-09-30.md",
+    "2025-09-29.md",
+    "2025-09-28.md",
+    "2025-09-26.md",
+    "2025-09-23.md",
+    "2025-09-21.md"
+  ]
+}
